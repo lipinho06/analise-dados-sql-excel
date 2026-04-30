@@ -8,6 +8,19 @@ Analisar métricas de negócio como receita, leads, conversão e ticket médio, 
 ## 🗄️ Estrutura do Banco de Dados
 ![Diagrama](analise-dados-sql-excel/Diagrama_img.PNG)
 
+## 📊 Dashboard
+
+Os gráficos abaixo apresentam os resultados das análises realizadas..
+
+### Projeto 1 - Análise de Vendas
+![Dashboard Vendas](analise-dados-sql-excel/dashboard_vendas.png)
+
+### Projeto 2 - Análise de Clientes e Veículos
+![Dashboard Clientes](analise-dados-sql-excel/dashboard_clientes.png)
+
+
+🔗 [Ver resultados completos da análise](https://drive.google.com/drive/folders/1pH8UBjrhZ6_3NqkWU62d3SxnIqf-c880?usp=sharing)
+
 ## 🛠️ Ferramentas utilizadas
 - PostgreSQL
 - SQL
@@ -20,7 +33,7 @@ Analisar métricas de negócio como receita, leads, conversão e ticket médio, 
 - Desempenho por estado, marcas, visitas e lojas
 - Dashboard no Excel com visualização de métricas
 
-### Projeto 2 - Análise de Clientes e Produtos
+### Projeto 2 - Análise de Clientes e veículos
 - Segmentação de clientes (idade, renda, gênero e status profissional)
 - Análise de comportamento e classificação de veículos
 - Geração de insights a partir dos dados
