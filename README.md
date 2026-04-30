@@ -16,7 +16,7 @@ Analisar métricas de negócio como receita, leads, conversão e ticket médio, 
 ## 📁 Estrutura do Projeto
 
 ### Projeto 1 - Análise de Vendas
-- Análise de receita, ticket médio leads e conversão
+- Análise de receita, ticket médio, leads e conversão
 - Desempenho por estado, marcas, visitas e lojas
 - Dashboard no Excel com visualização de métricas
 
